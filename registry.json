@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "demo": {
+      "url": "https://github.com/iyanrsaleh/exampel.git",
+      "version": "main"
+    }
+  }
+}
